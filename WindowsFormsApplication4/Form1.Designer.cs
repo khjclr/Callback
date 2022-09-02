@@ -55,7 +55,7 @@
             // 
             // btnGetPara
             // 
-            this.btnGetPara.Location = new System.Drawing.Point(783, 388);
+            this.btnGetPara.Location = new System.Drawing.Point(704, 388);
             this.btnGetPara.Name = "btnGetPara";
             this.btnGetPara.Size = new System.Drawing.Size(96, 54);
             this.btnGetPara.TabIndex = 2;
